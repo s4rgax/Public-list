@@ -1,0 +1,93 @@
+#EXTM3U url-tvg="http://rebrand.ly/epgitalia"
+#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai1.png" group-title="RAI",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai2.png" group-title="RAI",Rai 2 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai3.png" group-title="RAI",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709
+#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai3.png" group-title="RAI",Rai 3 
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/189/logo?width=240" group-title="MEDIASET",Rete 4
+https://link.theplatform.eu/s/PR1GhC/X7grmrHAxKe8
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/187/logo?width=240" group-title="MEDIASET",Canale 5
+https://link.theplatform.eu/s/PR1GhC/ob_jfiSkAAnN
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia1" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/188/logo?width=240" group-title="MEDIASET",Italia 1
+https://link.theplatform.eu/s/PR1GhC/FoMPHjrwmf0D
+#EXTINF:-1 tvg-id="la7.it" tvg-name="La7" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/La7.png" group-title="Altre Tv",La 7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="Tv 8" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/237/logo?width=240" group-title="Altre Tv",Tv8 
+https://www.mytivu.it/Application/Channels/TV8.php
+#EXTINF:-1 tvg-id="Nove.it" tvg-name="Nove" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Nove.png" group-title="DISCOVERY",Nove
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
+#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai4.png"group-title="RAI",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/192/logo?width=240" group-title="MEDIASET",Iris
+https://link.theplatform.eu/s/PR1GhC/kpsIaXwlaLcX
+#EXTINF:-1 tvg-id="iris.it" tvg-name="La5 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/190/logo?width=240" group-title="MEDIASET",La 5
+https://link.theplatform.eu/s/PR1GhC/hqCVddYL9R5I
+#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Rai5.png" group-title="RAI",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276
+#EXTINF:-1 tvg-id="Raimovie.it" tvg-name="Rai Movie" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiMovie.png" group-title="RAI",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiPremium.png" group-title="RAI",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992
+#EXTINF:-1 tvg-id="Italia2.it" tvg-name="Italia2" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/191/logo?width=240" group-title="MEDIASET",Italia 2
+https://link.theplatform.eu/s/PR1GhC/H8xOlfUecky8
+#EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="mediaset Extra" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/194/logo?width=240" group-title="MEDIASET",Med. Extra
+https://link.theplatform.eu/s/PR1GhC/O3JEUldFK9R8
+#EXTINF:-1 tvg-id="Paramount.it" tvg-name="Tv 2000" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Tv2000.png" group-title="Altre Tv",Tv 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 tvg-id="Cielo.it" tvg-name="Cielo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/239/logo?width=240" group-title="Altre Tv",Cielo
+https://www.mytivu.it/Application/Channels/Cielo.php
+#EXTINF:-1 tvg-id="20.it" tvg-name="20 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/443/logo?width=240" group-title="MEDIASET",20 HD
+https://link.theplatform.eu/s/PR1GhC/RX8the18WRVw
+#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiSport.png" group-title="RAI",Rai Sport
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025
+#EXTINF:-1 tvg-logo="https://paramountnetwork.mtvnimages.com/uri/mgid:file:gsp:paramountplusstor:/images/paramount-network/site/italy/vh1-white-logo2x.png" tvg-shift="0" group-title="TV MUSICALI",VH1 Italia
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiStoria.png" group-title="RAI",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-name="Rai News 24 HD" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiNews.png" group-title="RAI",Rai News
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1
+#EXTINF:-1 tvg-id="Tgcom.it" tvg-name="Tgcom24" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/197/logo?width=240" group-title="MEDIASET",TG COM
+https://link.theplatform.eu/s/PR1GhC/DlvlNhNoEWfJ
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Scuola" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiScuola.png" group-title="RAI",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011
+#EXTINF:-1 tvg-id="iris.it" tvg-name="27 Twentyseven" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/601/logo?width=240" group-title="MEDIASET",27 Twentyseven
+https://link.theplatform.eu/s/PR1GhC/8mtpuuCsiuad
+#EXTINF:-1 tvg-id="Dmax.it" tvg-name="Dmax" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Dmax.png" group-title="DISCOVERY",Dmax
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_5@825063/master.m3u8?sd=10&rebase=on&mux_audio=true
+#EXTINF:-1 tvg-id="la7d.it" tvg-name="La7d" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/La7d.png" group-title="Altre Tv",La 7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+#EXTINF:-1 tvg-id="Realtime.it" tvg-name="Real Time" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Realtime.png" group-title="DISCOVERY",Realtime
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
+#EXTINF:-1 tvg-name="Qvc Italia" tvg-logo="https://patbuweb.com/tivustream/chanlogoz/ita/QVC-Italia-300x158.jpg" tvg-shift="0" group-title="TV REGIONALI",Qvc Italia
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/chunklist_b2592000.m3u8
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="Focus" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/249/logo?width=240" group-title="MEDIASET",Focus
+https://link.theplatform.eu/s/PR1GhC/wXTqvVPiSuBc
+#EXTINF:-1 tvg-id="cine34.it" tvg-name="Cine34" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/574/logo?width=240&theme=dark" group-title="MEDIASET",Cine 34
+https://link.theplatform.eu/s/PR1GhC/B6crXSi6GyB3
+#EXTINF:-1 group-title="TV MUSICALI",Radio Italia Vision
+https://livetr.teleromagna.it/lifestyle/live/live/lifestyle480/playlist.m3u8
+#EXTINF:-1 tvg-id="bellaradio.it" tvg-name="RTL102.5" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Musica/Rtl1025.png" group-title="TV MUSICALI",RTL 102.5
+https://rtl-video1-stream.thron.com/live-video/video1/ngrp:video1/playlist_1.m3u8
+#EXTINF:-1 tvg-id="Giallo.it" tvg-name="Giallo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Giallo.png" group-title="DISCOVERY",Giallo
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
+#EXTINF:-1 tvg-id="topcrime.it" tvg-name="Top crime" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/193/logo?width=240" group-title="MEDIASET",TOPcrime
+https://link.theplatform.eu/s/PR1GhC/P1iJ5_9lpH84
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://api.superguidatv.it/v1/channels/195/logo?width=240" group-title="MEDIASET",Boing
+https://link.theplatform.eu/s/PR1GhC/_4ZqCt3e0MPJ
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Cartoonito.png" group-title="MEDIASET",Cartoonito
+https://link.theplatform.eu/s/PR1GhC/ItWzvFIjneaq
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiGulp.png" group-title="RAI",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Yoyo" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/RaiYoyo.png" group-title="RAI",Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899
+#EXTINF:-1 tvg-id="Super.it" tvg-name="Super" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Super.png" group-title="Altre Tv",Super
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
+#EXTINF:-1 tvg-id="bellaradio.it" tvg-name="RDS" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/Musica/Rds.jpeg" group-title="TV MUSICALI",RDS
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index_8.m3u8
+#EXTINF:-1 tvg-id="FoodNetowrk.it" tvg-name="Foodnetwork" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/FoodNetwork.png" group-title="DISCOVERY",Food Network
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8?sd=10&rebase=on&mux_audio=true
+#EXTINF:-1 tvg-id="Motortrend.it" tvg-name="Motortrend" tvg-country="IT" tvg-language="Italiano" tvg-logo="https://easysite.one/img/MotorTrend.png" group-title="DISCOVERY",Motor Trend
+https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
